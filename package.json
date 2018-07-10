@@ -1,0 +1,11 @@
+{
+  "name": "slack_jokebot",
+  "version": "1.0.0",
+  "description": "Slackbot that tells random jokes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Booker",
+  "license": "MIT"
+}
